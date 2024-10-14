@@ -2,7 +2,7 @@ import Logo from "../assets/logo.png"
 
 const Navbar = () => {
   return (
-    <header className="hidden md:block sticky w-full top-0 z-10 border-b bg-background/95 backdrop-blur-sm supports-[backdrop-filter]:bg-background/60">
+    <header className="hidden md:block w-full top-0 z-10 border-b bg-background/95 backdrop-blur-sm supports-[backdrop-filter]:bg-background/60">
       <div className="h-28 flex justify-between items-center mx-10">
         <a href="/">
           <img
