@@ -2,8 +2,8 @@ import Animation from "../assets/hero-animation.webm";
 
 const Hero = () => {
   return (
-    <section id="inicio" className="py-20 bg-gray-100 w-full">
-      <div className="w-full flex flex-col md:flex-row justify-evenly items-center text-black">
+    <section id="inicio" className="py-20 bg-gray-100 w-full h-[90vh]">
+      <div className="w-full h-full flex flex-col md:flex-row justify-evenly items-center text-black">
         <div className="sm:block flex flex-col justify-center items-center text-center sm:text-left">
           <h1 className="text-2xl sm:text-4xl font-bold mb-4 mx-2 sm:mx-0">
             Lideramos en Recursos Humanos para el Sector Gastronómico
