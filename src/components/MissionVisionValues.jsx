@@ -4,7 +4,7 @@ import Mision from "../assets/target.png";
 
 const MissionVisionValues = () => {
   return (
-    <div className="w-full py-20 mx-auto px-4 bg-gray-100 text-black h-screen">
+    <div className="w-full py-20 mx-auto px-4 bg-gray-100 text-black max-h-max lg:h-screen">
       <h2 className="text-3xl font-bold mb-8 text-center">
         Misión, Visión y Valores
       </h2>
