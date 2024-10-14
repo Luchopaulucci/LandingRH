@@ -4,11 +4,11 @@ import Mision from "../assets/target.png";
 
 const MissionVisionValues = () => {
   return (
-    <div className="w-full py-20 mx-auto px-4 bg-gray-100 text-black">
+    <div className="w-full py-20 mx-auto px-4 bg-gray-100 text-black h-screen">
       <h2 className="text-3xl font-bold mb-8 text-center">
         Misión, Visión y Valores
       </h2>
-      <div className="flex flex-col lg:flex-row justify-evenly items-center gap-8 text-center">
+      <div className="flex h-full flex-col lg:flex-row justify-evenly items-center gap-8 text-center">
         <div className="flex flex-col justify-center items-center max-w-md">
           <div className="mb-4">
             <img src={Mision} alt="Misión" width={64} height={64} />

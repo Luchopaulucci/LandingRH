@@ -2,10 +2,10 @@ import TeamLogo from "../assets/teamwork.png"
 
 const AboutUs = () => {
   return (
-    <section id="nosotros" className="py-20">
-      <div className="w-full">
+    <section id="nosotros" className="py-20 h-screen">
+      <div className="w-full h-full">
         <h2 className="text-3xl font-bold mb-8 text-center">Quiénes Somos</h2>
-        <div className="flex flex-col md:flex-row justify-evenly items-center">
+        <div className="flex flex-col md:flex-row justify-evenly items-center h-full">
           <div className="max-w-lg mb-6">
             <p className="text-lg sm:text-xl font-medium mb-4 mx-2 lg:mx-0">
               En Liguori Tomba Asociados, somos una empresa líder en recursos

@@ -3,7 +3,7 @@ import Mujer from "../assets/woman.png";
 
 const Team = () => {
   return (
-    <div id="nosotros" className="container mx-auto py-20 ">
+    <div id="nosotros" className="container mx-auto py-20">
       <h2 className="text-3xl font-bold mb-8 text-center">
         Conoce a Nuestro Equipo
       </h2>
